@@ -3,7 +3,7 @@
 ## 防护机制说明
 
 ### 1. **Canvas 指纹防护**
-- 拦截 `toDataURL()`， `toBlob()`， `getImageData()` 方法
+- 拦截 `toDataURL()`, `toBlob()`, `getImageData()` 方法
 - 在像素数据中添加微小随机噪声
 - 噪声范围控制在 ±0.00005，人眼无法察觉
 
