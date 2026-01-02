@@ -4,9 +4,12 @@
 // @version      1.0.0
 // @description  防止Canvas和WebGL指纹识别追踪
 // @author       By 9527
+// @namespace    https://github.com/0xD88C/UserScript/Canvas&WebGL指纹防护-By9527_v1.0.0.js
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
+// @downloadURL  https://update.greasyfork.org/scripts/561142/Canvas%20%20WebGL%20%E6%8C%87%E7%BA%B9%E9%98%B2%E6%8A%A4.user.js
+// @updateURL    https://update.greasyfork.org/scripts/561142/Canvas%20%20WebGL%20%E6%8C%87%E7%BA%B9%E9%98%B2%E6%8A%A4.user.js
 // ==/UserScript==
 
 (function() {
