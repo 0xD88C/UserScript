@@ -80,7 +80,7 @@
 ## 安装
 
 1. 点击下方链接安装脚本：  
-   [划词搜索（New PC版）v2.0.0 - Greasy Fork](https://update.greasyfork.org/scripts/369370/%E5%88%92%E8%AF%8D%E6%90%9C%E7%B4%A2%EF%BC%88pc%E7%89%88%EF%BC%89.user.js)
+   [划词搜索-New版_By9527 v2.0.0 - Greasy Fork](https://update.greasyfork.org/scripts/561140/%E5%88%92%E8%AF%8D%E6%90%9C%E7%B4%A2-New%E7%89%88_By9527.user.js)
 2. Tampermonkey 将自动提示安装，确认即可。
 
 ---
