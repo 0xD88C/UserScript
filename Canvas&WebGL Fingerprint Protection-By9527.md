@@ -3,7 +3,7 @@
 ## 防护机制说明
 
 ### 1. **Canvas 指纹防护**
-- 拦截 `toDataURL()`, `toBlob()`, `getImageData()` 方法
+- 拦截 `toDataURL()`， `toBlob()`， `getImageData()` 方法
 - 在像素数据中添加微小随机噪声
 - 噪声范围控制在 ±0.00005，人眼无法察觉
 
@@ -22,6 +22,10 @@
 1. **安装 Tampermonkey 扩展**
    - Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey)
    - Firefox: [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+
+1.001. 点击下方链接安装脚本：  
+       [Canvas&WebGL指纹防护-By9527 v1.0.0 - Greasy Fork](https://update.greasyfork.org/scripts/561142/Canvas%20%20WebGL%20%E6%8C%87%E7%BA%B9%E9%98%B2%E6%8A%A4.user.js)
+1.002. Tampermonkey 将自动提示安装，确认即可。
 
 2. **创建新脚本**
    - 点击 Tampermonkey 图标 → 创建新脚本
